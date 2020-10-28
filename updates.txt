@@ -1,0 +1,25 @@
+upd0:   -created canvas
+        -created ball
+        -gave ball movement
+        To do next: 1)bounce on the walls
+                    2)create paddle
+                    3)move paddle
+                    4)bounce the ball to paddle
+
+upd1:   -made the ball bounce to the boundaries
+        -created the paddles
+        -moving the paddles with keyboard
+        -made ball bounce on both paddle
+        =if ball gets out of side lines then its game over
+        To do next:     1)random direction in the beginning
+                        2)paddle should give angle to the direction of ball
+                        
+upd2:   -added random direction to the beginning ball       
+        To do next:     1) add score
+                        2) add dificulty
+                        3) add wining score selection              
+        
+upd3: -score is counting
+        -score is displayed
+        -we have a winner
+        to do next: make it as oop
